@@ -16,9 +16,5 @@ If you want to learn more about eigenvectors and eigenvalues, [3Blue1Brown](http
 **[Eigenvectors and eigenvalues](https://www.youtube.com/watch?v=PFDu9oVAE-g)**
 <br/>
 
-<br/>
-
-
-<br/>
 
 Jupyter Notebook and Python files are available.
