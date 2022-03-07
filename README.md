@@ -12,4 +12,13 @@ In linear algebra, an eigenvector or characteristic vector of a linear transform
 Geometrically, an eigenvector, corresponding to a real nonzero eigenvalue, points in a direction in which it is stretched by the transformation and the eigenvalue is the factor by which it is stretched. If the eigenvalue is negative, the direction is reversed. Loosely speaking, in a multidimensional vector space, the eigenvector is not rotated.
 <br/>
 
+If you want to learn more about eigenvectors and eigenvalues, [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) has made a good explanatory video:
+**[Eigenvectors and eigenvalues](https://www.youtube.com/watch?v=PFDu9oVAE-g)**
+<br/>
+
+<br/>
+
+
+<br/>
+
 Jupyter Notebook and Python files are available.
